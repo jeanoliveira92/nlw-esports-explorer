@@ -7,11 +7,8 @@
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-licença">Licença</a>
 </p>
-<br>
-
 ## Game hub Page
   <img alt="Frontend" src="https://github.com/jeanoliveira92/nlw-esports-explorer/blob/main/screenshot.gif?raw=true" width="100%">
-  
 
 ## :rocket: Tecnologias
 

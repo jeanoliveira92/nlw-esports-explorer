@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NLW-eSports" title="" src="https://github.com/jeanoliveira92/nlw-esports-explorer/blob/main/logo.svg" width="250px" />
+    <img alt="NLW-eSports" title="" src="https://raw.githubusercontent.com/jeanoliveira92/nlw-esports-ignite/58a27076654e677c74014846e704c86e4fbbdeed/web/src/assets/eSportsNLWLogo.svg" width="250px" />
 </h1>
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -9,22 +9,22 @@
 </p>
 <br>
 
-## Page 1
-  <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nlw-esports-explorer/main/screenshot.jpg" width="100%">
-  
-## Page 2
-  <img alt="Frontend" src="https://raw.githubusercontent.com/jeanoliveira92/nlw-esports-explorer/main/screenshot2.jpg" width="100%">
+## Game hub Page
+  <img alt="Frontend" src="https://github.com/jeanoliveira92/nlw-esports-explorer/blob/main/screenshot.gif?raw=true" width="100%">
   
 
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
 ## 💻 Projeto
 
 Next Level Week eSports - Trilha Explorer
+
+Game hub, um site centralizador de links, no estilo Linktree, feito especialmente para gamers.
 
 ## 🔖 Layout
 

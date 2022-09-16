@@ -11,6 +11,8 @@
 ## Game hub Page
   <img alt="Frontend" src="https://github.com/jeanoliveira92/nlw-esports-explorer/blob/main/screenshot.gif?raw=true" width="100%">
 
+Link para acessar: [https://jeanoliveira92.github.io/nlw-esports-explorer/](https://jeanoliveira92.github.io/nlw-esports-explorer/)
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
